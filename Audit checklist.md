@@ -11,3 +11,6 @@
 - [ ]   What will happen after the staking period ends?
 - [ ]   Check the return values of the prize distribution mechanism
 - [ ]   Burned tokens can be recovered, if there is no zero address check for "from" parameter
+
+
+More will be added...
