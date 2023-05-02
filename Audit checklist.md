@@ -8,3 +8,6 @@
 - [ ]   Check for the possibility of flash loan attack
 - [ ]   Staking contracts are the most vulnerable contracts to DOS
 - [ ]   Try to claim the reward twice, if you can get it, then it's a bug
+- [ ]   What will happen after the staking period ends?
+- [ ]   Check the return values of the prize distribution mechanism
+- [ ]   
