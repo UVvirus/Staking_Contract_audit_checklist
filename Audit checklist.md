@@ -10,4 +10,4 @@
 - [ ]   Try to claim the reward twice, if you can get it, then it's a bug
 - [ ]   What will happen after the staking period ends?
 - [ ]   Check the return values of the prize distribution mechanism
-- [ ]   
+- [ ]   Burned tokens can be recovered, if there is no zero address check for "from" parameter
